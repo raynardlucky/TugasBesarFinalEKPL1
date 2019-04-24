@@ -1,0 +1,3 @@
+"W01","Soeta Warehouse","Jl. Soekarno Hata No.122 Bandung"
+"W02","Peta Warehouse","Jl. Peta No.20 Bandung"
+"W03","Kelapa Warehouse","Jl. Kebon Kelapa No.58 Bandung"

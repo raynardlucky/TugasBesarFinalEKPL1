@@ -1,0 +1,3 @@
+"P001","Susu Bubuk Funcow","Food","PT. Sinar"
+"P002","Shampoo","Non-Food","PT. Utama"
+"P003","Detergen","Non-Food","PT.Utama"

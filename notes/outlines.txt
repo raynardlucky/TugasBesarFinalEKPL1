@@ -1,0 +1,15 @@
+outlines:
+1. Text File --> Object --> List (Lakukan sekali)
+2. List --> Object --> Diolah --> List (CRUD --> gk ada hubungannya sama text file)
+3. List --> Object --> Text File (Lakukan sekali)
+
+ada 3 class 3 object
+String warehouse;
+String namaProduk;
+double
+int
+
+method ..... dll dll dll
+
+gausah laporan, langsung presentasi ppt
+A, D, E dikelas
